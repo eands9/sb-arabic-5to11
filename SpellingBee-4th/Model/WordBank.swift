@@ -12,9 +12,14 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"swahili", sentence:""))
-        list.append(Word(word:"bezoar", sentence:""))
-        list.append(Word(word:"serdab", sentence:""))
-        list.append(Word(word:"alim", sentence:""))
+        list.append(Word(word:"douane", sentence:"*"))
+        list.append(Word(word:"nenuphar", sentence:"*"))
+        list.append(Word(word:"alcazar", sentence:"*"))
+        list.append(Word(word:"tahini", sentence:"*"))
+        list.append(Word(word:"qatari", sentence:"*"))
+        list.append(Word(word:"nadir", sentence:"*"))
+        list.append(Word(word:"mukhtar", sentence:"*"))
+        list.append(Word(word:"halal", sentence:"*"))
+        list.append(Word(word:"azimuth", sentence:"*"))
     }
 }
