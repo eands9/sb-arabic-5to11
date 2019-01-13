@@ -12,10 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"guitar", sentence:""))
-        list.append(Word(word:"nabob", sentence:""))
-        list.append(Word(word:"giraffe", sentence:""))
-        list.append(Word(word:"mattress", sentence:""))
-        list.append(Word(word:"elixir", sentence:""))
+        list.append(Word(word:"saffron", sentence:""))
+        list.append(Word(word:"cotton", sentence:""))
+        list.append(Word(word:"albatross", sentence:""))
+        list.append(Word(word:"zero", sentence:""))
+        list.append(Word(word:"safari", sentence:""))
+        list.append(Word(word:"magazine", sentence:""))
+        list.append(Word(word:"zenith", sentence:""))
+        list.append(Word(word:"alfalfa", sentence:""))
+        list.append(Word(word:"imam", sentence:""))
+        list.append(Word(word:"mosque", sentence:""))
     }
 }
