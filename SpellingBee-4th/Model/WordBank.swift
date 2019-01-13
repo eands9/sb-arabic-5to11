@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"khan", sentence:""))
-        list.append(Word(word:"ghoul ", sentence:""))
-        list.append(Word(word:"muslin", sentence:""))
-        list.append(Word(word:"camphor", sentence:""))
-        list.append(Word(word:"algorithm", sentence:""))
-        list.append(Word(word:"minaret", sentence:""))
-        list.append(Word(word:"tamarind", sentence:""))
-        list.append(Word(word:"carafe", sentence:""))
-        list.append(Word(word:"julep", sentence:""))
-        list.append(Word(word:"marzipan", sentence:""))
+        list.append(Word(word:"salaam", sentence:""))
+        list.append(Word(word:"khor", sentence:""))
+        list.append(Word(word:"foggara", sentence:""))
+        list.append(Word(word:"diffa", sentence:""))
+        list.append(Word(word:"alkali", sentence:""))
+        list.append(Word(word:"serendipity", sentence:""))
+        list.append(Word(word:"mihrab", sentence:""))
+        list.append(Word(word:"coffle", sentence:""))
+        list.append(Word(word:"fennec", sentence:""))
+        list.append(Word(word:"hafiz", sentence:""))
     }
 }
