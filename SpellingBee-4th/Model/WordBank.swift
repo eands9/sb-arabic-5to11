@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"alcohol", sentence:""))
-        list.append(Word(word:"tariff", sentence:""))
-        list.append(Word(word:"lilac", sentence:""))
-        list.append(Word(word:"alcove", sentence:""))
-        list.append(Word(word:"massage", sentence:""))
-        list.append(Word(word:"henna", sentence:""))
-        list.append(Word(word:"alchemy", sentence:""))
-        list.append(Word(word:"sugar", sentence:""))
-        list.append(Word(word:"taj", sentence:""))
-        list.append(Word(word:"mahal", sentence:""))
+        list.append(Word(word:"khan", sentence:""))
+        list.append(Word(word:"ghoul ", sentence:""))
+        list.append(Word(word:"muslin", sentence:""))
+        list.append(Word(word:"camphor", sentence:""))
+        list.append(Word(word:"algorithm", sentence:""))
+        list.append(Word(word:"minaret", sentence:""))
+        list.append(Word(word:"tamarind", sentence:""))
+        list.append(Word(word:"carafe", sentence:""))
+        list.append(Word(word:"julep", sentence:""))
+        list.append(Word(word:"marzipan", sentence:""))
     }
 }
